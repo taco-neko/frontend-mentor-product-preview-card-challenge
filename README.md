@@ -16,8 +16,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 I used Sass for this project. I learnt a lot about using a good file structure, mixins, and functions. I also started using BEM.
@@ -36,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-using-html-and-css-sass-V5i3ZT7rii)
+- Live Site URL: [Github Pages](https://taco-neko.github.io/frontend-mentor-product-preview-card-challenge/)
 
 ## My process
 
