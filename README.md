@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-using-html-and-css-sass-V5i3ZT7rii)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-using-html-and-css-sass-V5i3ZT7rii)
 - Live Site URL: [Github Pages](https://taco-neko.github.io/frontend-mentor-product-preview-card-challenge/)
 
 ## My process
